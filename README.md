@@ -2,7 +2,7 @@
 
 > Assists in converting BIOS option from AMI SCELNX file.
 
-`BIOS_SPI_Decoder` provides methods to convert SCELNX file to BIOS SPEC style
+`BIOS_Option_Convert` provides methods to convert SCELNX file to BIOS SPEC style
 
 ## Usage: convert.py <Scelnx file>
 
